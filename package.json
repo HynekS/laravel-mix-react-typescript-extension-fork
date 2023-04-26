@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/raicem/laravel-mix-react-typescript-extension#readme",
   "peerDependencies": {
-    "laravel-mix": "^4.0.0"
+    "laravel-mix": "^4"
   }
 }
